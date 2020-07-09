@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/Jamie-Yang/Jamie-Yang/blob/master/assets/intro.gif)
 
 <!--
 **Jamie-Yang/Jamie-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
