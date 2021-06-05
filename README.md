@@ -1,4 +1,4 @@
-![image](https://github.com/Jamie-Yang/Jamie-Yang/blob/master/assets/intro——150.webm)
+![image](https://github.com/Jamie-Yang/Jamie-Yang/blob/master/assets/intro_150.webm)
 
 <!-- https://codepen.io/JamieYang/pen/PoZeVqK -->
 
